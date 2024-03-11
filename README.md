@@ -15,6 +15,7 @@ Concevoir et configurer un dockerfile pour nodejs.
 ## 🙇 Auteur
 #### Arnaud Fischer
 - Github: [@Jeck0v](https://github.com/Jeck0v)
+- Créateur de l'exercice : [@DocteurSEO](https://github.com/DocteurSEO)
         
 
 ## ❤️ Support  
