@@ -1,5 +1,5 @@
 
-# <p align="center">Docker - exo 2</p>
+# <p align="center">Exercice 2 - Dockerfile </p>
 
 # <p align="left">Objectif:</p>
 Concevoir et configurer un dockerfile pour nodejs.
